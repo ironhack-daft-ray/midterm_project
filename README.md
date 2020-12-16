@@ -22,7 +22,7 @@ in which we take on the role of an analyst for a real estate company taksed in:
 
 ### Dashboard:
 * Data Visualization using Tableau
-* Dashboards based on specific requets from manangement
+* Dashboards based on specific requests from management
 
 ### Scripts:
 * Data retrieval and manipulation using MySQL
